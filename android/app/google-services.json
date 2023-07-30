@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "689729273312",
+    "project_id": "gusto-coffee-coworking-space",
+    "storage_bucket": "gusto-coffee-coworking-space.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689729273312:android:35d4fe5ca1e5f8f718bf85",
+        "android_client_info": {
+          "package_name": "fr.gusto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689729273312-pjt7g2ifoipaac054f2fq0vqp4tbt5bm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.gusto",
+            "certificate_hash": "12efb52c17e63d7f75ffbe3131cc405efabb9ff3"
+          }
+        },
+        {
+          "client_id": "689729273312-v7u1loko7bcqq4991h6e0p0t9mf1sv7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrLr0XClPpucyH-TkpKRnrxT98FVb7Ls4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689729273312-v7u1loko7bcqq4991h6e0p0t9mf1sv7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
